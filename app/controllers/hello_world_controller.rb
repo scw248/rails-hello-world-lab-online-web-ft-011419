@@ -1,1 +1,2 @@
-class HelloWorld
+class HelloWorldController < ApplicationController
+end
